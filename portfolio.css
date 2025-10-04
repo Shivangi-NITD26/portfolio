@@ -67,9 +67,8 @@ nav ul li a:hover::after{
 .header-text h1{
     font-size: 60px;
     margin-top: 20px;
-    color: #112a5c;
 }
-.header-text h1 span{
+.header-text h1{
     color: #ff004f;
 }
 /* About */
@@ -373,5 +372,6 @@ nav .fa-solid{
     color: #ffffff;
     display: block;
 }
+
 
 
