@@ -59,7 +59,7 @@ nav ul li a::after{
     position: absolute;
     left: 0;
     bottom: -6px;
-    transition: o.5s;
+    transition: 0.5s;
 }
 nav ul li a:hover::after{
     width: 100%;
@@ -117,3 +117,4 @@ nav ul li a:hover::after{
     font-size: 13px;
     font-weight: 300;
     border-radius: 10px;
+
