@@ -59,7 +59,7 @@ nav ul li a::after{
     position: absolute;
     left: 0;
     bottom: -6px;
-    transition: 0.5s;
+    transition: o.5s;
 }
 nav ul li a:hover::after{
     width: 100%;
@@ -366,3 +366,4 @@ nav .fa-solid{
     }
     nav ul li{
         display: block
+}
