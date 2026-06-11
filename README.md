@@ -1,7 +1,7 @@
 # Shivangi Patwa - Portfolio Website
 
 ## 🚀 About
-This is my personal portfolio website built using HTML, CSS, and JavaScript to showcase my projects, skills, and achievements.
+A fully responsive personal portfolio website built using HTML, CSS, and JavaScript to showcase my machine learning projects, technical skills, and achievements.
 
 ## 🛠 Tech Stack
 - HTML5
